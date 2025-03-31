@@ -4,16 +4,31 @@ header, footer, aside, section{
     padding: 24px 14px;
     margin: 10px;
 }
+
 header, footer{
     text-align: center;
     clear: both;
+}
+
+section{
+    width: 60%;
+    float: left;
+    text-align: left;
+}
+
+ul.list-unstyled li {
+    margin-bottom: 10px;
+}
+
+#sec_button{
+    background-color: brown;
 }
 
 aside{
     float: right;
     display: flex;
     justify-content: center;
-    width: 30%;
+    width: 35%;
     align-items: center;
 }
 
