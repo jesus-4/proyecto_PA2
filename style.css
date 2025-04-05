@@ -1,0 +1,8 @@
+header, footer{
+    background-color: rgb(180, 171, 160);
+    padding: 24px 15px;
+}
+
+.min-hg{
+    min-height: 700px;
+}
