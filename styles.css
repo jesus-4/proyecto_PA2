@@ -1,0 +1,39 @@
+header, footer, aside, section{
+    background-color: gray;
+    font-size: 18px;
+    padding: 24px 14px;
+    margin: 10px;
+}
+
+header, footer{
+    text-align: center;
+    clear: both;
+}
+
+section{
+    width: 60%;
+    float: left;
+    text-align: left;
+}
+
+ul.list-unstyled li {
+    margin-bottom: 10px;
+}
+
+#sec_button{
+    background-color: brown;
+}
+
+aside{
+    float: right;
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
