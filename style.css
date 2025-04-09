@@ -1,0 +1,23 @@
+header, footer{
+    background-color: rgb(180, 171, 160);
+    padding: 24px 15px;
+}
+
+.min-hg{
+    min-height: 700px;
+}
+.cartBtn{
+    border: none;
+    float: right;
+    background-color: white;
+}
+
+.cart-btn:hover{
+    background-color: rgb(212, 212, 212);
+    /* margin: 35px 10px; */
+}
+
+.cart-btn{
+    width: 30px;
+    height: 30px;
+}
